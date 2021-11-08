@@ -6,9 +6,9 @@ MiruDAO is a new community-governed, funding hub for neurotech IP. We’re here 
 
 Discord: https://discord.com/invite/ggKgcPyTfy
 
-Website (this repo): mirudao.com
+Website (this repo): https://mirudao.com
 
-One Pager: mirudao.com/onepager
+One Pager: https://mirudao.com/onepager
 
 ## Development
 
